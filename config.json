@@ -1,0 +1,16 @@
+{
+
+	"Options" : {
+		"Variables" : 1,
+		"Functions" : 1
+	},
+
+	"Variables": [
+		"ONE",
+		"TWO",
+		"THREE"
+	],
+	"Functions" : [
+		"one_two()"
+	]
+}
