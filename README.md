@@ -1,4 +1,8 @@
 # basic_lua_obfu
+
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
+
+
 A very basic lua obfuscator.
 
 This progam simply change the name of the variables and function that you have informed in the option.json file and put all the lines of the file in a single line.
